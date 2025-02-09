@@ -1,0 +1,53 @@
+# Node.js 기본
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+temp/
+tmp/
+logs/
+*.log
+.env
+
+# TypeScript
+*.tsbuildinfo
+tsconfig.tsbuildinfo
+
+# 빌드 산출물
+build/
+dist/
+*.d.ts
+*.d.ts.map
+*.js
+*.js.map
+
+# IDE 설정 파일
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# OS 파일
+*.swp
+*.swo
+
+# 테스트 관련 파일
+coverage/
+jest-test-results.json
+
+# Vite 관련
+.vite
+.vite-cache/
+.cache/
+out/
+
+# Babel
+.babelrc
+babel.config.js
+babel.config.json
+
+# ESLint
+.eslintcache
+
+# VSCode
+.vscode/*
